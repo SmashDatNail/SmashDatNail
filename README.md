@@ -3,7 +3,9 @@
 
 > "In the realm of technology, reality becomes harder to define.”
 
-'sudo rm rf -conciousness'
+`sudo rm -rf consciousness`
+
+
 
 
 <!--
