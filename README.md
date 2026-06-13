@@ -21,9 +21,9 @@ sudo rm -rf consciousness
 
 I am a Computer Engineering student who loves the bleeding edge of technology. Deeply passionate in both computer hardware and software.
 
-I am also highly curious about how any piece of Technology works ranging from various Engineering disciplines such as ⚙️ mechanical, 🧪 chemical and 🤖 robotics. 
+I am also highly curious about how any piece of Technology works ranging from various Engineering disciplines such as  ⚙️ mechanical,  🧪 chemical and  🤖 robotics. 
 
-I have quite a lot of hobbies that I do in my past time like 🎮 Playing Video Games, 📖 Reading, ✍️ Writing, 💻 Coding, 🎵 Listening to music, 🔧 Tinkering with any piece of electronics devices
+I have quite a lot of hobbies that I do in my past time like 🎮 Playing Video Games, 📖  Reading, ✍️  Writing, 💻  Coding,  🎵 Listening to music,  🔧 Tinkering with any piece of electronics devices
 
 ---
 
