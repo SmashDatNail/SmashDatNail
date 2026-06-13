@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Welcome to my profile fellas!! 👋
+![]https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.tenor.com%2Fcml5i_EK5QgAAAAC%2Fserial-experiments-lain-yasuo-iwakura.gif&f=1&nofb=1&ipt=b2f2be440d9aedcc486baeb8c6e8347d052995399c310d0e203effc250bc02ab
 <!--
 **SmashDatNail/SmashDatNail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
