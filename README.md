@@ -1,4 +1,3 @@
-<img width="500" height="537" alt="image" src="https://github.com/user-attachments/assets/e1927903-ed92-4f9f-ad99-37066c0384c4" /><div align="center">
 
 ## Welcome to the world of digital 🖥️
 
