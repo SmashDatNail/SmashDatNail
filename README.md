@@ -1,4 +1,4 @@
-<div align="center">
+<img width="500" height="537" alt="image" src="https://github.com/user-attachments/assets/e1927903-ed92-4f9f-ad99-37066c0384c4" /><div align="center">
 
 ## Welcome to the world of digital 🖥️
 
@@ -34,11 +34,14 @@ I have quite a lot of hobbies that I do in my past time such as:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,python,js,html,css" />
-
-C++ • Python • JavaScript • HTML • CSS
+<img src="https://skillicons.dev/icons?i=cpp" alt="C++" />
+<img src="https://skillicons.dev/icons?i=python" alt="Python" />
+<img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
+<img src="https://skillicons.dev/icons?i=html" alt="HTML" />
+<img src="https://skillicons.dev/icons?i=css" alt="CSS" />
 
 </div>
+
 
 
 ---
@@ -46,5 +49,7 @@ C++ • Python • JavaScript • HTML • CSS
 <div align="center">
 
 *"The Wired is not a layer of reality; it is reality itself."*
+
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fgiffiles.alphacoders.com%2F171%2F171259.gif&f=1&nofb=1&ipt=88b89bfccecbf91cda6f8edf64345abb734296d3a59e660eed429d123954b12d" />
 
 </div>
