@@ -36,8 +36,6 @@ I have quite a lot of hobbies that I do in my past time such as:
 
 <img src="https://skillicons.dev/icons?i=cpp,python,js,html,css" />
 
-<br><br>
-
 C++ • Python • JavaScript • HTML • CSS
 
 </div>
