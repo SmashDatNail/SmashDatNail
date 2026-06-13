@@ -30,16 +30,17 @@ I have quite a lot of hobbies that I do in my past time such as:
 * 🔧 Tinkering with any piece of electronics devices
 
 ---
-
 ### 💻 Programming Language that I learn and use
 
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp" />
-  <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://skillicons.dev/icons?i=js" />
-  <img src="https://skillicons.dev/icons?i=html" />
-  <img src="https://skillicons.dev/icons?i=css" />
-</p>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,python,js,html,css" />
+
+<br><br>
+
+C++ • Python • JavaScript • HTML • CSS
+
+</div>
 
 
 ---
