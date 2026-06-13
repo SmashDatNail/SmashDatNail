@@ -53,8 +53,6 @@ I have quite a lot of hobbies that I do in my past time such as:
 
 *"The Wired is not a layer of reality; it is reality itself."*
 
-<br><br>
-
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fgiffiles.alphacoders.com%2F171%2F171259.gif&f=1&nofb=1&ipt=88b89bfccecbf91cda6f8edf64345abb734296d3a59e660eed429d123954b12d" alt="Serial Experiments Lain GIF" width="350" />
 
 </div>
