@@ -33,11 +33,14 @@ I have quite a lot of hobbies that I do in my past time such as:
 
 ### 💻 Programming Language that I learn and use
 
-* C++
-* Python
-* Javascript
-* HTML
-* CSS
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp" />
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=js" />
+  <img src="https://skillicons.dev/icons?i=html" />
+  <img src="https://skillicons.dev/icons?i=css" />
+</p>
+
 
 ---
 
