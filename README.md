@@ -1,17 +1,22 @@
-
 ## Welcome to the world of digital 🖥️
 
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.tenor.com%2Fcml5i_EK5QgAAAAC%2Fserial-experiments-lain-yasuo-iwakura.gif&f=1&nofb=1&ipt=b2f2be440d9aedcc486baeb8c6e8347d052995399c310d0e203effc250bc02ab" alt="Serial Experiments Lain GIF" width="500" />
+<div align="center">
+  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.tenor.com%2Fcml5i_EK5QgAAAAC%2Fserial-experiments-lain-yasuo-iwakura.gif&f=1&nofb=1&ipt=b2f2be440d9aedcc486baeb8c6e8347d052995399c310d0e203effc250bc02ab" alt="Serial Experiments Lain GIF" width="500" />
+</div>
+
+<div align="center">
+
+> *"In the realm of technology, reality becomes harder to define."*
 
 </div>
 
-> "In the realm of technology, reality becomes harder to define.”
-
-`sudo rm -rf consciousness`
+```bash
+sudo rm -rf consciousness
+```
 
 ---
 
-### 📖 Introduction
+## 📖 Introduction
 
 I am a Computer Engineering student who loves the bleeding edge of technology.
 
@@ -29,7 +34,8 @@ I have quite a lot of hobbies that I do in my past time such as:
 * 🔧 Tinkering with any piece of electronics devices
 
 ---
-### 💻 Programming Language that I learn and use
+
+## 💻 Programming Language that I learn and use
 
 <div align="center">
 
@@ -41,14 +47,14 @@ I have quite a lot of hobbies that I do in my past time such as:
 
 </div>
 
-
-
 ---
 
 <div align="center">
 
 *"The Wired is not a layer of reality; it is reality itself."*
 
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fgiffiles.alphacoders.com%2F171%2F171259.gif&f=1&nofb=1&ipt=88b89bfccecbf91cda6f8edf64345abb734296d3a59e660eed429d123954b12d" />
+<br><br>
+
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fgiffiles.alphacoders.com%2F171%2F171259.gif&f=1&nofb=1&ipt=88b89bfccecbf91cda6f8edf64345abb734296d3a59e660eed429d123954b12d" alt="Serial Experiments Lain GIF" />
 
 </div>
